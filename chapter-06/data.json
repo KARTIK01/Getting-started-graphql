@@ -1,0 +1,444 @@
+[
+  {
+    "id": "58f2ffce3d6867529298a0a6",
+    "name": "Ramsey Goff",
+    "company": "LEXICONDO",
+    "email": "ramseygoff@lexicondo.com",
+    "friends": [
+      {
+        "name": "Dominguez Marshall"
+      },
+      {
+        "name": "Nettie Moses"
+      },
+      {
+        "name": "Jimmie Jacobson"
+      },
+      {
+        "name": "Chase Francis"
+      },
+      {
+        "name": "Tabatha Waller"
+      },
+      {
+        "name": "Colon Collier"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce6eb3ee8fb8ee1f76",
+    "name": "Eunice Cabrera",
+    "company": "LEXICONDO",
+    "email": "eunicecabrera@crustatia.com",
+    "friends": [
+      {
+        "name": "Kaufman Bradley"
+      },
+      {
+        "name": "Burch Jennings"
+      },
+      {
+        "name": "Eddie Barnes"
+      },
+      {
+        "name": "Barton Church"
+      },
+      {
+        "name": "Catherine Greene"
+      },
+      {
+        "name": "Britney Sweeney"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce453bdb9b879e6685",
+    "name": "Alexandria Parks",
+    "company": "EARTHPURE",
+    "email": "alexandriaparks@earthpure.com",
+    "friends": [
+      {
+        "name": "Alejandra Conner"
+      },
+      {
+        "name": "Gallegos Green"
+      },
+      {
+        "name": "Velasquez Shields"
+      },
+      {
+        "name": "Sawyer Ramos"
+      },
+      {
+        "name": "Alston Reese"
+      },
+      {
+        "name": "Rowland Potter"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffced46079b6d47f8675",
+    "name": "Hahn Harmon",
+    "company": "KEEG",
+    "email": "hahnharmon@keeg.com",
+    "friends": [
+      {
+        "name": "Lena Frank"
+      },
+      {
+        "name": "Stafford Klein"
+      },
+      {
+        "name": "Julianne Galloway"
+      },
+      {
+        "name": "Kelley Boyd"
+      },
+      {
+        "name": "Lindsey Blackburn"
+      },
+      {
+        "name": "Blake Dudley"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce30045633e2d2af31",
+    "name": "Sheena Bruce",
+    "company": "ZENSURE",
+    "email": "sheenabruce@zensure.com",
+    "friends": [
+      {
+        "name": "Case Hewitt"
+      },
+      {
+        "name": "Brianna Burch"
+      },
+      {
+        "name": "Rose Walton"
+      },
+      {
+        "name": "Peters Monroe"
+      },
+      {
+        "name": "Hester Dunn"
+      },
+      {
+        "name": "Kidd Finch"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffcebace0c583dd1a3b5",
+    "name": "Velez Rojas",
+    "company": "MARVANE",
+    "email": "velezrojas@marvane.com",
+    "friends": [
+      {
+        "name": "David Roberson"
+      },
+      {
+        "name": "Key Schwartz"
+      },
+      {
+        "name": "Warner Benson"
+      },
+      {
+        "name": "Marcie Kane"
+      },
+      {
+        "name": "Jocelyn Kidd"
+      },
+      {
+        "name": "Queen Cleveland"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce9a0c695393152430",
+    "name": "Tyler Hester",
+    "company": "LUNCHPAD",
+    "email": "tylerhester@lunchpad.com",
+    "friends": [
+      {
+        "name": "White Lawrence"
+      },
+      {
+        "name": "Schultz Cox"
+      },
+      {
+        "name": "Cochran Tate"
+      },
+      {
+        "name": "Mercado Wynn"
+      },
+      {
+        "name": "Melanie Holt"
+      },
+      {
+        "name": "Alford Hamilton"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffcef2054133eb690641",
+    "name": "Kitty Rice",
+    "company": "QIAO",
+    "email": "kittyrice@qiao.com",
+    "friends": [
+      {
+        "name": "Buchanan Dawson"
+      },
+      {
+        "name": "Rosanne Hinton"
+      },
+      {
+        "name": "Bright Zamora"
+      },
+      {
+        "name": "Tonya Dominguez"
+      },
+      {
+        "name": "Jacquelyn Vincent"
+      },
+      {
+        "name": "Mercer Mccormick"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce10bcb2c2be0c75a6",
+    "name": "Montgomery Wilkinson",
+    "company": "BUZZOPIA",
+    "email": "montgomerywilkinson@buzzopia.com",
+    "friends": [
+      {
+        "name": "Graves Heath"
+      },
+      {
+        "name": "Glenna Morales"
+      },
+      {
+        "name": "Ray Mcmillan"
+      },
+      {
+        "name": "Noreen Weber"
+      },
+      {
+        "name": "Christy Cunningham"
+      },
+      {
+        "name": "Roberta Lynn"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce753dc4d8f8d682a4",
+    "name": "Lara Cash",
+    "company": "TETRATREX",
+    "email": "laracash@tetratrex.com",
+    "friends": [
+      {
+        "name": "Claudia Jones"
+      },
+      {
+        "name": "Love Peters"
+      },
+      {
+        "name": "Martina Sargent"
+      },
+      {
+        "name": "Delia Rivera"
+      },
+      {
+        "name": "Michelle Porter"
+      },
+      {
+        "name": "Leola Stanton"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffceb09e80eac860813c",
+    "name": "Cecelia Murphy",
+    "company": "ZUVY",
+    "email": "ceceliamurphy@zuvy.com",
+    "friends": [
+      {
+        "name": "Sasha Yates"
+      },
+      {
+        "name": "Valenzuela Russo"
+      },
+      {
+        "name": "Morton Dotson"
+      },
+      {
+        "name": "Nelda Morin"
+      },
+      {
+        "name": "Pena Lloyd"
+      },
+      {
+        "name": "Flynn Briggs"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce6c10a6b047f23c58",
+    "name": "Bryant Carey",
+    "company": "CABLAM",
+    "email": "bryantcarey@cablam.com",
+    "friends": [
+      {
+        "name": "Ava Payne"
+      },
+      {
+        "name": "Katharine Edwards"
+      },
+      {
+        "name": "Penelope Conway"
+      },
+      {
+        "name": "Lou Hanson"
+      },
+      {
+        "name": "Padilla Welch"
+      },
+      {
+        "name": "Mendoza Chandler"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffcee7c2eaf08786fa4e",
+    "name": "Stacie Saunders",
+    "company": "TEMORAK",
+    "email": "staciesaunders@temorak.com",
+    "friends": [
+      {
+        "name": "Nanette Butler"
+      },
+      {
+        "name": "Clarissa Dennis"
+      },
+      {
+        "name": "Sheppard Daugherty"
+      },
+      {
+        "name": "Oneill Pearson"
+      },
+      {
+        "name": "Parks Mayer"
+      },
+      {
+        "name": "Goldie Stephenson"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffcea85d10504b54dff2",
+    "name": "Selma Mcintyre",
+    "company": "QUONATA",
+    "email": "selmamcintyre@quonata.com",
+    "friends": [
+      {
+        "name": "Mcgee Leon"
+      },
+      {
+        "name": "Paulette Nielsen"
+      },
+      {
+        "name": "Samantha Simon"
+      },
+      {
+        "name": "Munoz Gutierrez"
+      },
+      {
+        "name": "Whitney Glass"
+      },
+      {
+        "name": "Fuentes Vazquez"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffceef6c00115caf6218",
+    "name": "Jamie Murray",
+    "company": "EGYPTO",
+    "email": "jamiemurray@egypto.com",
+    "friends": [
+      {
+        "name": "Nita Fry"
+      },
+      {
+        "name": "Baird Knox"
+      },
+      {
+        "name": "Valerie Gallegos"
+      },
+      {
+        "name": "Rojas Sparks"
+      },
+      {
+        "name": "Garner Morrison"
+      },
+      {
+        "name": "Atkins Lindsey"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce17a01db845e32509",
+    "name": "Corrine Sharp",
+    "company": "BLANET",
+    "email": "corrinesharp@blanet.com",
+    "friends": [
+      {
+        "name": "Liza Preston"
+      },
+      {
+        "name": "Owen Camacho"
+      },
+      {
+        "name": "Bean Anthony"
+      },
+      {
+        "name": "Ronda Ramsey"
+      },
+      {
+        "name": "Woodard Estes"
+      },
+      {
+        "name": "Knox Young"
+      }
+    ]
+  },
+  {
+    "id": "58f2ffce1e1e686d9ab5ee56",
+    "name": "Howe Hines",
+    "company": "OULU",
+    "email": "howehines@oulu.com",
+    "friends": [
+      {
+        "name": "Wanda Bradford"
+      },
+      {
+        "name": "Georgina Burton"
+      },
+      {
+        "name": "Marilyn Mckinney"
+      },
+      {
+        "name": "Fuller Mann"
+      },
+      {
+        "name": "Nadine Calderon"
+      },
+      {
+        "name": "Obrien Richards"
+      }
+    ]
+  }
+]
